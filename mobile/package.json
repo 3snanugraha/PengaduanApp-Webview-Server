@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "expo": "^49.0.16",
+    "react-native-webview": "^13.6.2"
+  }
+}
